@@ -16,6 +16,13 @@ Fusce at ornare purus, in commodo dolor. Nunc auctor quis risus vel luctus. Done
 
 Página inicial contendo  uma descrição, Redes Sociais, Projetos e artigos em destaque.
 
+<div> 
+  <a href="www.linkedin.com/in/rafaela-de-campos-marcian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:rafaeladecamposm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="[https://discord.gg/wagxzStdcR](https://discord.com/channels/@me)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+   
+
   
 ## Projetos
 
@@ -40,7 +47,9 @@ Fusce at ornare purus, in commodo dolor. Nunc auctor quis risus vel luctus. Done
 [![My Skills](https://skillicons.dev/icons?i=js,html,instagram,wasm)](https://skillicons.dev)
 
   
-* Contato: Informações para contato.
+
+  
+</div>
 
 ## 🖥 Tecnologias
 
